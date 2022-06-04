@@ -1,5 +1,5 @@
- # CBETA 電子佛典閱讀器 2 離線經文下載說明 (非官方)
-## 介紹
+ # CBETA 電子佛典閱讀器 2 離線經文 (非官方) 
+## 說明
 
 CBETA 電子佛典閱讀器 2 (非官方)，簡寫 [cbetar2]( https://github.com/MrMYHuang/cbetar2)，預設使用 CBETA API 連線存取電子佛經，可利用加至書籤作離線瀏覽。
 
@@ -13,10 +13,32 @@ cbetar2 是一款 PWA 程式，類似於網頁，可在不同平台運行，如 
 2. 開啟 cbetar2、切至設定頁。
 3. 在"離線經文 DB 下載"一項，按匯入即可。過程僅一開始須連線下載約 1 MB 相關檔案。
 
+## iOS 匯入教學
+1. 開啟 cbetar2、切至設定頁、點擊匯入
+
+<img src='https://github.com/MrMYHuang/cbetar2-bookcase/raw/main/images/iOS-import-1.png' width='50%' />
+
+2. 選取 Bookcase zip 檔
+
+<img src='https://github.com/MrMYHuang/cbetar2-bookcase/raw/main/images/iOS-import-2.png' width='50%' />
+
+## Android 匯入教學
+1. 開啟 cbetar2、切至設定頁、點擊匯入
+
+<img src='https://github.com/MrMYHuang/cbetar2-bookcase/raw/main/images/android-import-1.png' width='50%' />
+
+2. 選擇您的檔案管理 app
+
+<img src='https://github.com/MrMYHuang/cbetar2-bookcase/raw/main/images/android-import-2.png' width='50%' />
+
+3. 選取 Bookcase zip 檔
+
+<img src='https://github.com/MrMYHuang/cbetar2-bookcase/raw/main/images/android-import-3.png' width='50%' />
+
 ## 已測試環境
-    * iPad iOS 14.5 (模擬器): 可匯入官方 Bookcase 包。
-    * Android 9: 須匯入精簡經文檔。
-    * macOS 12 + Chrome: 可匯入官方 Bookcase 包。
+* iPad iOS 14.5 (模擬器): 可匯入官方 Bookcase 包。
+* Android 9: 須匯入精簡經文檔。
+* macOS 12 + Chrome: 可匯入官方 Bookcase 包。
 
 ## 自行製作 Bookcase for cbetar2
 1. [下載官方 Bookcase zip](http://www.cbeta.org/download/cbreader.htm#data)
@@ -30,7 +52,7 @@ cbetar2 是一款 PWA 程式，類似於網頁，可在不同平台運行，如 
     * catalog.txt
     * spine.txt
     * figures
-4. 將 Bookcase 資料夾壓縮，壓縮檔名無限制。
+4. 將 Bookcase 資料夾壓縮為 zip，壓縮檔名無限制。
 5. 完成。
 
 ## 第三方軟體版權聲明

@@ -8,8 +8,8 @@ cbetar2 是一款 PWA 程式，類似於網頁，可在不同平台運行，如 
 由於行動裝置硬體資源較受限(記憶體、儲存空間)，cbetar2 PWA 載入官方 CBETA Bookcase 檔可能會失敗。因此以下提供非官方精簡版 Bookcase 以利匯入，差異在於刪除 cbetar2 未使的檔案。
 
 ## 已測試環境
-* iPad 6, 2 GB RAM: 可匯入官方 Bookcase 包。
-* Android 9, 6 GB RAM: 可匯入官方 Bookcase 包。
+* iPad 6, 2 GB RAM: 可匯入官方 Bookcase 包。匯入時間9分鐘。
+* Android 9, 6 GB RAM: 可匯入官方 Bookcase 包。匯入時間1小時50分。
 * macOS 12 + Chrome: 可匯入官方 Bookcase 包。
 
 ## 下載官方 CBETA Bookcase zip

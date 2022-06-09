@@ -11,6 +11,7 @@ cbetar2 是一款 PWA 程式，類似於網頁，可在不同平台運行，如 
 * iPad 6, 2 GB RAM: 可匯入官方 Bookcase 包。匯入時間9分鐘。
 * Android 9, 6 GB RAM: 可匯入官方 Bookcase 包。匯入時間1小時50分。
 * macOS 12 + Chrome: 可匯入官方 Bookcase 包。
+* Windows 11 + Electron app: 可匯入官方 Bookcase 包。
 
 ## 下載官方 CBETA Bookcase zip
 1. [下載官方 Bookcase zip](http://www.cbeta.org/download/cbreader.htm#data)
